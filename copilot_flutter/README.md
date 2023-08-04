@@ -15,3 +15,7 @@ This app was built in less than an hour by someone programming in Flutter for th
 Here is a link to a Google document that catalogues the complete Copilot conversation (prompts and responses) that were used to create this application. The document also contains a mapping of the entire widget tree.
 
 https://docs.google.com/document/d/1UW_Qjhgcjg-guEU887KYJep0neFoW74RuRm44gNTQtM/edit
+
+## Video
+
+A short video demonstrating the app: https://youtube.com/shorts/91mfFcYHfU0
